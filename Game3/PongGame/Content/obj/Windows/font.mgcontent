@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Jan/documents/visual studio 2015/Projects/Game3/PongGame/Content/font.spritefont</SourceFile>
+  <SourceTime>2017-11-28T14:40:07.5918323+01:00</SourceTime>
+  <DestFile>C:/Users/Jan/documents/visual studio 2015/Projects/Game3/PongGame/Content/bin/Windows/font.xnb</DestFile>
+  <DestTime>2017-12-04T16:27:50.496034+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
